@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "gateway",
+      "todo"
+    ],
+    "directoryPath": "./",
+    "useElk": false,
+    "serviceDiscoveryType": "consul",
+    "kjwtSecretKey": "ae497c3d3f77e06e074f24b6c516ee31895713dd",
+    "jwtSecretKey": "44793f68a7d4722e427f7d52788d3cca8cdfcafe"
+  }
+}
