@@ -1,0 +1,2 @@
+# jhipster-consul
+JHipster consul 
